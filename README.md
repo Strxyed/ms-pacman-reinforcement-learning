@@ -29,12 +29,12 @@ Implemented agents:
 
 ## Project Structure
 src/
-├── ValueIterationAgent.java
-├── PolicyIterationAgent.java
-├── QLearningAgent.java
-├── Game.java
-├── Executor.java
-└── Supporting Classes
+-> ValueIterationAgent.java
+-> PolicyIterationAgent.java
+-> QLearningAgent.java
+-> Game.java
+-> Executor.java
+-> Supporting Classes
 
 ## Key Concepts
 
